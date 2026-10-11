@@ -1,0 +1,19 @@
+showDialog=true
+netCheck=true
+loading_msg=Zehmet Olmasa İnternet Bağlantınızı Yoxlayın..
+title=VIP CHANGELOG
+subtitle=Yenilənmiş şərtləri diqqətlə oxuyun
+message=Salam! Bizim şərtlərimiz bunlardır:
+
+1. Tətbiqdən icazəsiz istifadə qadağandır.
+2. Bütün hüquqlar mühafizə olunur.
+3. Telegram kanalımıza qoşularaq güncəl qala bilərsiniz.
+
+Bu mətni Enter basaraq istədiyiniz qədər uzada bilərsiniz.
+pos_btn_text=✈ Telegram
+pos_btn_show=true
+pos_btn_lnk=true
+pos_btn_link=https://t.me/yusefmodz
+exit_btn_text=✖ Close
+exit_btn_show=true
+exit_btn_force_cls=true
