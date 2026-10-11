@@ -1,5 +1,5 @@
 showDialog=false
-netCheck=true
+netCheck=false
 loading_msg=Zehmet Olmasa İnternet Bağlantınızı Yoxlayın..
 title=VIP CHANGELOG
 subtitle=Yenilənmiş şərtləri diqqətlə oxuyun
