@@ -1,4 +1,4 @@
-showDialog=true
+showDialog=false
 netCheck=true
 loading_msg=Zehmet Olmasa İnternet Bağlantınızı Yoxlayın..
 title=VIP CHANGELOG
